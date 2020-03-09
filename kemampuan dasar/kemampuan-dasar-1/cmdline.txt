@@ -1,0 +1,20 @@
+cal   			: Calculator
+cmd/ipconfig 		: Show IP Config
+cmd/k hostname  	: Show hostname
+control			: Control panel
+Control netconnections  : Network connections
+explorer      		: Windows explorer
+logoff 			: Log out of windows
+notepad			: notepad
+nslookup		: Return your local DNS server
+osk			: On screen keyboard
+mstsc			: Remote keyboard
+shutdown		: Shuts down windows
+sigverif		: File signature verification tool
+taskmgr			: Task manager
+utilman			: Utility manager
+verifier		: Driver verifier utility
+winver			: Windows version
+wscript			: WIndows script host settings
+main.cpl		: Mouse settings
+sysdm.cpl		: System properties
