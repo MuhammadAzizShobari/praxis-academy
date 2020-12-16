@@ -21,8 +21,7 @@ def index (request):
 
 def profil (request):
     return render(request,'pengguna/profil.html') 
-
-
+    
 def detail(request, id):
     tampil = models.DataBus.objects.filter(pk=id)
     data = {
